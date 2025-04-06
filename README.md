@@ -1,5 +1,9 @@
 # Legato ROS2 Integration
 
+<div style="text-align: center;">
+  <img src="https://github.com/open-actuator/.github/blob/main/assets/logo.svg" width="25%" height="25%" alt="open actuator logo" style="vertical-align: middle;">
+</div>
+
 ## Overview
 This repository provides the **ROS2 integration** and [**`ros2_control` support**](https://control.ros.org/latest/index.html) for actuators supported by the [**Legato Unified Actuator SDK**](https://github.com/open-actuator/legato).
 
